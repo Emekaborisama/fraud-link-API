@@ -1,9 +1,9 @@
-crenditial compromised
+# crenditial compromised
 bug
 thinking in the mind of the attacker
 behavioural pattern
 
-Features
+## Features
 •	Identity
 •	Payment methods
 •	Location
@@ -11,7 +11,7 @@ Features
 High velocity of new payment methods
 Suspicious email- mismatch between the account name or name of card or rude words in email address
 
-FEATURES
+## FEATURES
 •	TRADITIONAL 
 •	BEHAVIORAL
 •	REAL TIME***
@@ -20,7 +20,7 @@ FEATURES
 •	ENTITY
 •	NETWORK
 
-MICRO-MODEL ARCHITECTURE
+## MICRO-MODEL ARCHITECTURE
 •	ML – numerical features 
 •	NLP – text features
 •	ANOMALY DETECTION AUTOENCODERS – 
